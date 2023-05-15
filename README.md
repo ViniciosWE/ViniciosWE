@@ -8,11 +8,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ViniciosWE&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciosWE&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosWE&layout=compact&langs_count=16&theme=merko"/>
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciosWE&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosWE&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
-<br>
 
 <div align="center"> 
 <a href="https://www.instagram.com/dev_vinicios/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
