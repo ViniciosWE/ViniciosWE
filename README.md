@@ -9,8 +9,8 @@
 </p>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ViniciosWE&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosWE&layout=compact&langs_count=16&theme=merko"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&langs_count=16&theme=merko"/>
 </div>
 <br>
 
