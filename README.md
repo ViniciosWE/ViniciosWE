@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicios+Weide+Ebling;I'm+18+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ViniciosWE&bg_color=0d1117&color=3CB371&line=3CB371&point=7CFC00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ViniciosWE&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
