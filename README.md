@@ -2,6 +2,31 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicios+Weide+Ebling;I'm+18+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+## 💻 Linguagens e Tecnologias:
+
+<div style="display: inline_block" align="center"><br>
+
+<img align="center" alt="Java" height="60" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+
+<img align="center" alt="PHP" height="60" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+
+<img align="center" alt="JS" height="60" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+<img align="center" alt="HTML" height="60" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+
+<img align="center" alt="CSS" height="60" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+
+<img align="center" alt="PostgreSQL" height="60" width="70"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+
+</div>
+
+
 <div align="center"> 
 <a href="https://www.instagram.com/dev_vinicios/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:vinicioswe2005@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
