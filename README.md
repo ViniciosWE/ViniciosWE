@@ -2,18 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicios+Weide+Ebling;I'm+18+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ViniciosWE&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciosWE&count_private=true&include_all_commits=true&show_icons=true&theme=merko&hide_border=false&show_owner=true"/>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciosWE&theme=merko&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-
 <div align="center"> 
 <a href="https://www.instagram.com/dev_vinicios/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:vinicioswe2005@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
