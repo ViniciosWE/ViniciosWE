@@ -41,4 +41,12 @@
 </a> 
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://vinicioswe.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=footer"/>
