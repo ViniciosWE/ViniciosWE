@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:vinicioswe2005@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=vinicioswe2005@gmail.com&su=Contato&body=Olá, vim pelo GitHub!">
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
