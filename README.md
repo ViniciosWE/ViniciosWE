@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BGmfpnfElR3%2Bvrx7iXRfuYA%3D%3D" target="_blank">
+<a href="https://www.linkedin.com/in/vinicios-weide-ebling-a16116268" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px">
 </a> 
 </div>
