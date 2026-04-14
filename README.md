@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Vinicios+Weide+Ebling;I'm+21+years+old;I'm+from+Brazil;I+study+systems+analysis+and+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciosWEa&show_icons=true&theme=tokyonight)
-                                           
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniciosWE&show_icons=true&theme=chartreuse-dark" />
+</div>                     
 <br>
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
