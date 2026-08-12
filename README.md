@@ -10,6 +10,14 @@
 
 <br>
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ViniciosWE/ViniciosWE/output/space-shooter.gif"
+    width="100%"
+    alt="Animated Space Shooter contribution game"
+  />
+</p>
+
 <div align="center"> 
 <a href="https://www.instagram.com/dev_vinicios/" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -31,5 +39,6 @@
     <img src="https://img.shields.io/badge/Acessar%20Portfólio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7CFC00&height=120&section=footer"/>
